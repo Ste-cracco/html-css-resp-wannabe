@@ -165,7 +165,6 @@ img {
     }
 
     /* SECTION FINALE  */
-
     .why-us .row {
         gap: 60px;
     }
@@ -188,3 +187,10 @@ img {
         margin: -50px 0;
     }
  }
+
+    /* BONUS  */
+    @media screen and (min-width: 769px) and (max-width: 1160px) {
+        .container {
+            width: 100%;
+        }
+    }
